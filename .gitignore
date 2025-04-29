@@ -1,0 +1,4 @@
+# Ignore the etfs folder
+etfs/
+
+# download data set from link given in resource
