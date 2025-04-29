@@ -73,8 +73,11 @@ Technologies used include **Python**, **Pandas**, **Seaborn**, **Matplotlib**, *
 ```
 FUTURE_ML_02/
 ├── etfs/
-│   └── CFO.csv
-|   └── ... other csv files
+│   ├── CFO.csv
+│     .
+│     .
+│     .
+|   └── other csv files
 ├── images/
 │   ├── 01_correlation_matrix.png
 │   ├── 02_price_with_moving_averages.png
@@ -82,8 +85,10 @@ FUTURE_ML_02/
 │   ├── 04_loss_over_epochs.png
 │   ├── 05_zoomed_prediction_first_200_days.png
 │   └── 06_price_distribution_histogram.png
-├── stock_prediction.ipynb
-└── README.md
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── stock_prediction.ipynb
 
 ```
 

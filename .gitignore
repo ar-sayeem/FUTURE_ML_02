@@ -2,3 +2,5 @@
 etfs/
 
 # download data set from link given in resource
+# I didn't want to push the datasets in my GitHub, that's why I put the etfs/ folder in .gitignore file
+#My priority is to show the Machine Learning initiative only
